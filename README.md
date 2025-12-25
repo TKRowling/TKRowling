@@ -65,7 +65,7 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TKRowling&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?user=TKRowling&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKRowling&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=TKRowling&layout=compact&theme=tokyonight" />
 </p>
 
 ---
